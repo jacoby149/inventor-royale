@@ -33,4 +33,4 @@ The applications will be published to the brand new Digital Pioneers Academy App
 
 At the end of the summer, the students will present their apps, and a panel of faculty judges will vote on one of the three applications. One team will be declared the winner.
 
-![golden buzzer](gifs/golden buzzer.gif)
+![golden buzzer](gifs/goldenbuzzer.gif)
