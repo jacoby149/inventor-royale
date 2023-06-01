@@ -4,7 +4,7 @@ This school year, DPA will be running a Summer program to expose students to rea
 
  🎆 YOU CAN DO ANYTHING 💯 IF YOU PUT YOUR MIND TO IT 📣 ESPORTS GRINDSET  😎
 
-| <img src="gifs/ballshooter.gif" alt="Ball Shooter" style="zoom:60%;" /> | <img src="C:\Users\Jacob\Desktop\Summer Program\gifs\social.gif" alt="social" style="zoom: 33%;" /> | <img src="C:\Users\Jacob\Desktop\Summer Program\gifs\painter.gif" alt="painter" style="zoom:33%;" /> |
+| <img src="gifs/ballshooter.gif" alt="Ball Shooter" style="zoom:60%;" /> | <img src="gifs/social.gif" alt="social" style="zoom: 33%;" /> | <img src="gifs/painter.gif" alt="painter" style="zoom:33%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
@@ -29,7 +29,7 @@ Team Options :
 
 The applications will be published to the brand new Digital Pioneers Academy App Store. The apps will be tracked for usage!
 
-<img src="C:\Users\Jacob\Desktop\Summer Program\gifs\DPA-app-store.png" alt="DPA-app-store" style="zoom:50%;" />
+<img src="gifs/DPA-app-store.png" alt="DPA-app-store" style="zoom:50%;" />
 
 At the end of the summer, the students will present their apps, and a panel of faculty judges will vote on one of the three applications. One team will be declared the winner.
 
