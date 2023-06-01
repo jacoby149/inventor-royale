@@ -4,7 +4,7 @@ This school year, DPA will be running a Summer program to expose students to rea
 
  🎆 YOU CAN DO ANYTHING 💯 IF YOU PUT YOUR MIND TO IT 📣 ESPORTS GRINDSET  😎
 
-| <img src="gifs/ballshooter.gif" alt="Ball Shooter" style="zoom:60%;" /> | <img src="gifs/social.gif" alt="social" style="zoom: 33%;" /> | <img src="gifs/painter.gif" alt="painter" style="zoom:33%;" /> |
+| <img src="gifs/ballshooter.gif" alt="Ball Shooter" style="zoom:80%;" /> | <img src="gifs/social.gif" alt="social" style="zoom: 33%;" /> | <img src="gifs/painter.gif" alt="painter" style="zoom:33%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
