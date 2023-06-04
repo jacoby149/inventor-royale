@@ -9,19 +9,21 @@ This school year, DPA will be running a Summer program to expose students to rea
 
 
 
+
+
 > How will it work ❓
 
 Students will work together collaboratively in teams to make full stack web applications.
 
+
+
 <img src="gifs/teamwork.gif" alt="teamwork"  />
+
+
 
 > I have not failed. I’ve just found 10,000 ways that won’t work.
 
 [ - Quote By Thomas Edison ](https://blackmousedesign.com.au/2014/05/stop-procrastinating/i_have_not_failed_edison/)
-
-
-
-
 
 
 
