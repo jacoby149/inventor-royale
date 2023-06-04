@@ -85,4 +85,4 @@ The apps will be graded from 1 to 10 on the following criteria :
 
 Members of the winning team will get DPA Summer Metaverse Champion fanny packs.
 
-![model-fanny](C:\Users\jacks\OneDrive\Documents\GitHub\summer-program\gifs\model-fanny.jpg)
+![model-fanny](gifs\model-fanny.jpg)
