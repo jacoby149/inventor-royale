@@ -1,6 +1,6 @@
-# 🤖🌠 DPA Summer Metaverse 📀💯
+# 🤖🌠 The web10 Inventor Royale📀💯
 
-This school year, DPA will be running a Summer program to expose students to real world software development patterns, practices, management and teamwork.
+This school year, web10 will run its first semester long program to expose students to real world software development patterns, practices, management and teamwork.
 
  🎆 *You can do anything* 💯 *If you put your mind to it* 📣 *so let's work hard*  😎
 
@@ -27,21 +27,9 @@ Students will work together collaboratively in teams to make full stack web appl
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## Details
 
-The summer program will be run as a fun friendly contest. At the end of the summer, a winning team will win Summer Metaverse fanny packs. To participate in the contest, there will be three teams to choose from.
+The summer program will be run as a fun friendly contest. At the end of the summer, a winning team will win Inventors Royale backpacks. To participate in the contest, there will be three teams to choose from.
 
 Team Options : 
 
@@ -51,19 +39,19 @@ Team Options :
 
 <img src="gifs/app-store-peruse.gif" alt="app-store-peruse" style="zoom: 25%;" />
 
-The applications that each team will make will be published to the brand new Digital Pioneers Academy App Store.
+The applications that each team will make will be published to an app store made custom for your school, with your school's logo.
+
+Participating Schools :
+
+1. KIPP DC
+2. Digital Pioneers Academy
+3. Friendship Public Charter School
 
 <img src="gifs/DPA-app-store.png" alt="DPA-app-store" style="zoom:50%;" />
 
 At the end of the summer, the students will present their apps, and a panel of faculty judges will vote on one of the three applications. One team will be declared the winner.
 
 ![golden buzzer](gifs/goldenbuzzer.gif)
-
-
-
-
-
-
 
 
 
@@ -85,6 +73,6 @@ The apps will be graded from 1 to 10 on the following criteria :
 
 ### Prize
 
-Members of the winning team will get DPA Summer Metaverse Champion fanny packs.
+Members of the winning team will get web10 Inventors Royale Champion backpacks.
 
-![model-fanny](gifs/model-fanny.jpg)
+<img src="gifs/backpack.jpg" alt="backpack" style="zoom:50%;" />
