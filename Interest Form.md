@@ -1,4 +1,4 @@
-# 🤖🌠 DPA Summer Metaverse 📀💯
+# 🤖🌠 The web10 Inventor Royale 📀💯
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-Are you interested in the Summer Program? 
+Are you interested in the Program? 
 
 Yes O  
 
