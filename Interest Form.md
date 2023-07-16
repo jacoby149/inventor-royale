@@ -1,4 +1,4 @@
-# 🤖🌠 The web10 Inventor Royale 📀💯
+# 🤖🌠 The web10 Inventors Royale 📀💯
 
 
 

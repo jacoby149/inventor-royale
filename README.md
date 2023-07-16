@@ -1,4 +1,4 @@
-# 🤖🌠 The web10 Inventor Royale📀💯
+# 🤖🌠 The web10 Inventors Royale📀💯
 
 This school year, web10 will run its first semester long program to expose students to real world software development patterns, practices, management and teamwork.
 
@@ -29,7 +29,7 @@ Students will work together collaboratively in teams to make full stack web appl
 
 ## Details
 
-The program will be run as a fun friendly contest. At the end of the summer, a winning team will win Inventor Royale backpacks. To participate in the contest, there will be three teams to choose from.
+The program will be run as a fun friendly contest. At the end of the summer, a winning team will win web10 Royale backpacks. To participate in the contest, there will be three teams to choose from.
 
 Team Options : 
 
@@ -73,6 +73,6 @@ The apps will be graded from 1 to 10 on the following criteria :
 
 ### Prize
 
-Members of the winning team will get web10 Inventor Royale Champion backpacks.
+Members of the winning team will get web10 Royale Champion backpacks.
 
 <img src="gifs/backpack.jpg" alt="backpack" style="zoom:50%;" />
