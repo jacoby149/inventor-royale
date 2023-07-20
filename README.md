@@ -1,6 +1,6 @@
 # 🤖🌠 The web10 Inventors Royale📀💯
 
-This school year, web10 will run its first semester long program to expose students to real world software development patterns, practices, management and teamwork.
+The web10 Inventors Royale is a semester long program to expose students to real world software development patterns, practices, management, and teamwork.
 
  🎆 *You can do anything* 💯 *If you put your mind to it* 📣 *so let's work hard*  😎
 
