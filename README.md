@@ -29,7 +29,7 @@ Students will work together collaboratively in teams to make full stack web appl
 
 ## Details
 
-The program will be run as a fun friendly contest. At the end of the summer, a winning team will win web10 Royale backpacks. To participate in the contest, there will be three teams to choose from.
+The program will be run as a fun and friendly contest. Teams will be judged by a panel of faculty judges. At the end of the program, a winning team will be chosen, and will win web10 Royale backpacks. To participate in the contest, there will be three teams to choose from.
 
 Team Options : 
 
@@ -37,19 +37,13 @@ Team Options :
 * 3D Creative Sculpting Game [Voxel Painter] 🎨🎁🪐
 * High Speed Decentralized Social Media App < web10 Social > 🦜💭💬
 
-<img src="gifs/app-store-peruse.gif" alt="app-store-peruse" style="zoom: 25%;" />
+<img src="gifs/doing-alot.gif" alt="app-store-peruse" style="zoom: 25%;" />
 
 The applications that each team will make will be published to an app store made custom for your school, with your school's logo.
 
-Participating Schools :
+<img src="gifs/app-store.png" alt="app-store" style="zoom:50%;" />
 
-1. KIPP DC
-2. Digital Pioneers Academy
-3. Friendship Public Charter School
-
-<img src="gifs/DPA-app-store.png" alt="DPA-app-store" style="zoom:50%;" />
-
-At the end of the summer, the students will present their apps, and a panel of faculty judges will vote on one of the three applications. One team will be declared the winner.
+At the end of the summer, the students will present their apps, and a panel of faculty judges will score team performance. One team will be declared the winner.
 
 ![golden buzzer](gifs/goldenbuzzer.gif)
 
