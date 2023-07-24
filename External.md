@@ -33,9 +33,9 @@ The program will be run as a contest. Projects will be judged by a panel of facu
 
 Team Options : 
 
-* Real Time Player Versus Player 3D Game Team (Ball Shooter) 🔫 🥎🤖
-* 3D Creative Sculpting Game [Voxel Painter] 🎨🎁🪐
-* High Speed Decentralized Social Media App < web10 Social > 🦜💭💬
+* Real Time Player Versus Player 3D Game Team 🔫 🥎🤖
+* 3D Creative Sculpting Game 🎨🎁🪐
+* High Speed Decentralized Social Media App 🦜💭💬
 * OR! Make your own application!
 
 <img src="gifs/doing-alot.gif" alt="app-store-peruse" style="zoom: 25%;" />
